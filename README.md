@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### i'm majoring computer engineering
+### i"m 25
+### studying .
 <!--
 **zezeon/zezeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
